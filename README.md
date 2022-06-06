@@ -31,6 +31,11 @@ Fill all forms step by step as in example:
 
 <img src="fill_init_example.png" width="90%">
 
+test bot
+```
+janusbot dry-run
+```
+
 ### Setup service file 
 1. Create service file 
 ```
