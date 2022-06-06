@@ -21,6 +21,10 @@ wget https://github.com/MELLIFERA-Labs/janusbot/releases/download/v0.0.3/janusbo
 ```
 ### Setup app config
 ```
+chmod +rwx janusbot
+```
+
+```
 janusbot init
 ```
 Fill all forms step by step as in example:
